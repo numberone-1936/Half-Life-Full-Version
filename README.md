@@ -238,4 +238,4 @@ This repository serves as the official landing page for Half-Life. The software 
 **Get the most recent version of Half-Life today!**
 
 ---
-**Last updated:** 2026-10-30 22:51:12 UTC
+**Last updated:** 2026-10-31 02:08:01 UTC
